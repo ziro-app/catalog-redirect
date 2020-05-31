@@ -1,0 +1,20 @@
+{
+  "name": "catalog-redirect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"Blank"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziro-app/catalog-redirect.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ziro-app/catalog-redirect/issues"
+  },
+  "homepage": "https://github.com/ziro-app/catalog-redirect#readme"
+}
