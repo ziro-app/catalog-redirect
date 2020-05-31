@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "echo \"Blank"
+    "build": "echo \"blank\" && exit 1"
   },
   "repository": {
     "type": "git",
